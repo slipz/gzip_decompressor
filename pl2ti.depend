@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1513377800 source:c:\users\localhost\desktop\pl2ti\gzip.cpp
+	<cstdlib>
+	<math.h>
+	"gzip.h"
+	"huffman.h"
+
+1513377605 c:\users\localhost\desktop\pl2ti\gzip.h
+	<stdio.h>
+
+1511464330 source:c:\users\localhost\desktop\pl2ti\huffman.cpp
+	"huffman.h"
+
+1193343104 c:\users\localhost\desktop\pl2ti\huffman.h
+	<stdio.h>
+	<string.h>
+
+1513358549 source:d:\ti\trabalho 2\pl2ti\gzip.cpp
+	<cstdlib>
+	<math.h>
+	"gzip.h"
+	"huffman.h"
+
+1513348082 d:\ti\trabalho 2\pl2ti\gzip.h
+	<stdio.h>
+
+1193343104 d:\ti\trabalho 2\pl2ti\huffman.h
+	<stdio.h>
+	<string.h>
+
+1511464330 source:d:\ti\trabalho 2\pl2ti\huffman.cpp
+	"huffman.h"
+
+1511464330 source:c:\users\localhost\dropbox\uc\2017\ti\pl2\pl2ti\pl2ti\huffman.cpp
+	"huffman.h"
+
+1193343104 c:\users\localhost\dropbox\uc\2017\ti\pl2\pl2ti\pl2ti\huffman.h
+	<stdio.h>
+	<string.h>
+
+1512058256 source:c:\users\localhost\dropbox\uc\2017\ti\pl2\pl2ti\pl2ti\gzip.cpp
+	<cstdlib>
+	<math.h>
+	"gzip.h"
+	"huffman.h"
+
+1511167706 c:\users\localhost\dropbox\uc\2017\ti\pl2\pl2ti\pl2ti\gzip.h
+	<stdio.h>
+
+1512659462 source:d:\ti\trabalho 2\pl2ti\pl2ti\gzip.cpp
+	<cstdlib>
+	<math.h>
+	"gzip.h"
+	"huffman.h"
+
+1511167706 d:\ti\trabalho 2\pl2ti\pl2ti\gzip.h
+	<stdio.h>
+
+1193343104 d:\ti\trabalho 2\pl2ti\pl2ti\huffman.h
+	<stdio.h>
+	<string.h>
+
+1511464330 source:d:\ti\trabalho 2\pl2ti\pl2ti\huffman.cpp
+	"huffman.h"
+
+1512658053 source:d:\ti\trabalho 2\pl2ti\teste.c
+	<stdio.h>
+
+1511464330 source:c:\users\localhost\desktop\pl2ti\pl2ti\huffman.cpp
+	"huffman.h"
+
+1193343104 c:\users\localhost\desktop\pl2ti\pl2ti\huffman.h
+	<stdio.h>
+	<string.h>
+
+1513269424 source:c:\users\localhost\desktop\pl2ti\pl2ti\gzip.cpp
+	<cstdlib>
+	<math.h>
+	"gzip.h"
+	"huffman.h"
+
+1511167706 c:\users\localhost\desktop\pl2ti\pl2ti\gzip.h
+	<stdio.h>
+
