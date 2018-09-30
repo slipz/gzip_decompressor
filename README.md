@@ -1,2 +1,2 @@
 # gzip_decompressor
-GZIP Decompressor
+## GZIP Decompressor
